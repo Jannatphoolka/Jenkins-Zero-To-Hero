@@ -77,7 +77,7 @@ This project demonstrates a Continuous Integration/Continuous Deployment (CI/CD)
 
 ## Argo CD Pipeline Deployment
 
-![Argo CD Pipeline Deployment](C:\Users\HP\OneDrive\Documents\GitHub\Kubernetes-Native-CI-CD-Pipeline\image (2).png)
+![Argo CD Pipeline Deployment](image (2).png)
 
 ### Argo CD Pods
 
